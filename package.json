@@ -1,6 +1,6 @@
 {
   "name": "@vinaymehta/security-client",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "description": "Ubiq Client Node Implementation",
   "main": "index.js",
   "author": "Vinay Mehta <vinay.ymca@gmail.com>",
